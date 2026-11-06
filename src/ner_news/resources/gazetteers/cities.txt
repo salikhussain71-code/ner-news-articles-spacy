@@ -1,0 +1,197 @@
+# Major cities -> LOC
+Islamabad
+Rawalpindi
+Lahore
+Karachi
+Peshawar
+Quetta
+Faisalabad
+Multan
+Hyderabad
+Sialkot
+Gujranwala
+Abbottabad
+Parachinar
+Bahawalpur
+Sargodha
+Mardan
+Gwadar
+Muzaffarabad
+Gilgit
+Skardu
+Delhi
+New Delhi
+Mumbai
+Kolkata
+Chennai
+Bangalore
+Ahmedabad
+Dhaka
+Chittagong
+Kabul
+Kandahar
+Herat
+Kathmandu
+Colombo
+Tehran
+Baghdad
+Basra
+Damascus
+Aleppo
+Beirut
+Jerusalem
+Tel Aviv
+Amman
+Riyadh
+Jeddah
+Mecca
+Medina
+Doha
+Dubai
+Abu Dhabi
+Sharjah
+Muscat
+Kuwait City
+Manama
+Sanaa
+Ankara
+Istanbul
+Cairo
+Alexandria
+Tunis
+Tripoli
+Algiers
+Casablanca
+Rabat
+Lagos
+Abuja
+Accra
+Nairobi
+Addis Ababa
+Johannesburg
+Cape Town
+Pretoria
+Kinshasa
+Khartoum
+Moscow
+St. Petersburg
+Saint Petersburg
+Kiev
+Kyiv
+Kharkiv
+Odesa
+Minsk
+Warsaw
+Prague
+Vienna
+Budapest
+Bucharest
+Sofia
+Athens
+Belgrade
+Zagreb
+Sarajevo
+Berlin
+Munich
+Hamburg
+Frankfurt
+Cologne
+Zurich
+Geneva
+Bern
+Paris
+Marseille
+Lyon
+Brussels
+Amsterdam
+Rotterdam
+The Hague
+Luxembourg City
+London
+Manchester
+Liverpool
+Birmingham
+Leeds
+Glasgow
+Edinburgh
+Cardiff
+Belfast
+Dublin
+Madrid
+Barcelona
+Valencia
+Seville
+Lisbon
+Porto
+Rome
+Milan
+Naples
+Turin
+Venice
+Florence
+Oslo
+Stockholm
+Copenhagen
+Helsinki
+Reykjavik
+New York
+Los Angeles
+Chicago
+Houston
+Philadelphia
+San Francisco
+San Diego
+San Jose
+Seattle
+Boston
+Washington
+Atlanta
+Miami
+Dallas
+Denver
+Las Vegas
+Detroit
+Toronto
+Montreal
+Vancouver
+Ottawa
+Mexico City
+Havana
+Bogota
+Lima
+Santiago
+Buenos Aires
+Sao Paulo
+Rio de Janeiro
+Caracas
+Beijing
+Shanghai
+Shenzhen
+Guangzhou
+Hong Kong
+Tokyo
+Osaka
+Kyoto
+Seoul
+Pyongyang
+Taipei
+Bangkok
+Hanoi
+Ho Chi Minh City
+Manila
+Jakarta
+Kuala Lumpur
+Singapore
+Sydney
+Melbourne
+Canberra
+Brisbane
+Perth
+Auckland
+Wellington
+Tashkent
+Almaty
+Astana
+Baku
+Tbilisi
+Yerevan

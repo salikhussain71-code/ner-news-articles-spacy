@@ -1,0 +1,316 @@
+sentence_id,kind,gold,gold_label,pred,pred_label,context,approach
+0,correct,United Nations,ORG,United Nations,ORG,The United Nations said on Monday that talks in Geneva would resume next week.,rule
+0,correct,Geneva,LOC,Geneva,LOC,The United Nations said on Monday that talks in Geneva would resume next week.,rule
+1,correct,Ayesha Khan,PER,Ayesha Khan,PER,Dr. Ayesha Khan of the University of Oxford presented the study in London.,rule
+1,correct,University of Oxford,ORG,University of Oxford,ORG,Dr. Ayesha Khan of the University of Oxford presented the study in London.,rule
+1,correct,London,LOC,London,LOC,Dr. Ayesha Khan of the University of Oxford presented the study in London.,rule
+2,correct,Pakistani,MISC,Pakistani,MISC,Pakistani officials in Islamabad met representatives of the World Bank on Tuesday.,rule
+2,correct,Islamabad,LOC,Islamabad,LOC,Pakistani officials in Islamabad met representatives of the World Bank on Tuesday.,rule
+2,correct,World Bank,ORG,World Bank,ORG,Pakistani officials in Islamabad met representatives of the World Bank on Tuesday.,rule
+3,correct,Microsoft,ORG,Microsoft,ORG,Microsoft and Google announced new offices in Karachi and Lahore.,rule
+3,correct,Google,ORG,Google,ORG,Microsoft and Google announced new offices in Karachi and Lahore.,rule
+3,correct,Karachi,LOC,Karachi,LOC,Microsoft and Google announced new offices in Karachi and Lahore.,rule
+3,correct,Lahore,LOC,Lahore,LOC,Microsoft and Google announced new offices in Karachi and Lahore.,rule
+4,correct,Daniel Carter,PER,Daniel Carter,PER,"Mr. Daniel Carter, a spokesman for Acme Holdings Ltd, told Reuters that sales rose.",rule
+4,correct,Acme Holdings Ltd,ORG,Acme Holdings Ltd,ORG,"Mr. Daniel Carter, a spokesman for Acme Holdings Ltd, told Reuters that sales rose.",rule
+4,correct,Reuters,ORG,Reuters,ORG,"Mr. Daniel Carter, a spokesman for Acme Holdings Ltd, told Reuters that sales rose.",rule
+5,correct,Brazil,LOC,Brazil,LOC,Brazil beat Argentina 2-1 in the final of the Copa America.,rule
+5,correct,Argentina,LOC,Argentina,LOC,Brazil beat Argentina 2-1 in the final of the Copa America.,rule
+5,correct,Copa America,MISC,Copa America,MISC,Brazil beat Argentina 2-1 in the final of the Copa America.,rule
+6,correct,European Union,ORG,European Union,ORG,The European Union and NATO leaders gathered in Brussels.,rule
+6,correct,NATO,ORG,NATO,ORG,The European Union and NATO leaders gathered in Brussels.,rule
+6,correct,Brussels,LOC,Brussels,LOC,The European Union and NATO leaders gathered in Brussels.,rule
+7,missed,Sarah Johnson,PER,,,"Sarah Johnson, a reporter for the BBC, wrote about the floods in Sindh.",rule
+7,correct,BBC,ORG,BBC,ORG,"Sarah Johnson, a reporter for the BBC, wrote about the floods in Sindh.",rule
+7,correct,Sindh,LOC,Sindh,LOC,"Sarah Johnson, a reporter for the BBC, wrote about the floods in Sindh.",rule
+8,correct,Tesla,ORG,Tesla,ORG,Tesla shares fell after Elon Musk spoke to journalists in Texas.,rule
+8,missed,Elon Musk,PER,,,Tesla shares fell after Elon Musk spoke to journalists in Texas.,rule
+8,correct,Texas,LOC,Texas,LOC,Tesla shares fell after Elon Musk spoke to journalists in Texas.,rule
+9,correct,Urdu,MISC,Urdu,MISC,The Urdu translation was released by the Higher Education Commission in Islamabad.,rule
+9,correct,Higher Education Commission,ORG,Higher Education Commission,ORG,The Urdu translation was released by the Higher Education Commission in Islamabad.,rule
+9,correct,Islamabad,LOC,Islamabad,LOC,The Urdu translation was released by the Higher Education Commission in Islamabad.,rule
+10,correct,Russian,MISC,Russian,MISC,"Russian and Ukrainian delegations will meet in Istanbul, Reuters reported.",rule
+10,correct,Ukrainian,MISC,Ukrainian,MISC,"Russian and Ukrainian delegations will meet in Istanbul, Reuters reported.",rule
+10,correct,Istanbul,LOC,Istanbul,LOC,"Russian and Ukrainian delegations will meet in Istanbul, Reuters reported.",rule
+10,correct,Reuters,ORG,Reuters,ORG,"Russian and Ukrainian delegations will meet in Istanbul, Reuters reported.",rule
+11,correct,Imran Ahmed,PER,Imran Ahmed,PER,Imran Ahmed said the University of Karachi would open a new campus.,rule
+11,correct,University of Karachi,ORG,University of Karachi,ORG,Imran Ahmed said the University of Karachi would open a new campus.,rule
+12,correct,Peshawar,LOC,Peshawar,LOC,"Heavy rain hit Peshawar and Quetta, the Pakistan Meteorological Department said.",rule
+12,correct,Quetta,LOC,Quetta,LOC,"Heavy rain hit Peshawar and Quetta, the Pakistan Meteorological Department said.",rule
+12,correct,Pakistan Meteorological Department,ORG,Pakistan Meteorological Department,ORG,"Heavy rain hit Peshawar and Quetta, the Pakistan Meteorological Department said.",rule
+13,correct,Apple,ORG,Apple,ORG,Apple will launch the product at an event in California next month.,rule
+13,correct,California,LOC,California,LOC,Apple will launch the product at an event in California next month.,rule
+14,correct,Maria Garcia,PER,Maria Garcia,PER,Prof. Maria Garcia from Spain joined the World Health Organization in Geneva.,rule
+14,correct,Spain,LOC,Spain,LOC,Prof. Maria Garcia from Spain joined the World Health Organization in Geneva.,rule
+14,correct,World Health Organization,ORG,World Health Organization,ORG,Prof. Maria Garcia from Spain joined the World Health Organization in Geneva.,rule
+14,correct,Geneva,LOC,Geneva,LOC,Prof. Maria Garcia from Spain joined the World Health Organization in Geneva.,rule
+0,correct,United Nations,ORG,United Nations,ORG,The United Nations said on Monday that talks in Geneva would resume next week.,model:en_core_web_sm
+0,correct,Geneva,LOC,Geneva,LOC,The United Nations said on Monday that talks in Geneva would resume next week.,model:en_core_web_sm
+1,correct,Ayesha Khan,PER,Ayesha Khan,PER,Dr. Ayesha Khan of the University of Oxford presented the study in London.,model:en_core_web_sm
+1,correct,University of Oxford,ORG,University of Oxford,ORG,Dr. Ayesha Khan of the University of Oxford presented the study in London.,model:en_core_web_sm
+1,correct,London,LOC,London,LOC,Dr. Ayesha Khan of the University of Oxford presented the study in London.,model:en_core_web_sm
+2,correct,Pakistani,MISC,Pakistani,MISC,Pakistani officials in Islamabad met representatives of the World Bank on Tuesday.,model:en_core_web_sm
+2,correct,Islamabad,LOC,Islamabad,LOC,Pakistani officials in Islamabad met representatives of the World Bank on Tuesday.,model:en_core_web_sm
+2,correct,World Bank,ORG,World Bank,ORG,Pakistani officials in Islamabad met representatives of the World Bank on Tuesday.,model:en_core_web_sm
+3,correct,Microsoft,ORG,Microsoft,ORG,Microsoft and Google announced new offices in Karachi and Lahore.,model:en_core_web_sm
+3,correct,Google,ORG,Google,ORG,Microsoft and Google announced new offices in Karachi and Lahore.,model:en_core_web_sm
+3,correct,Karachi,LOC,Karachi,LOC,Microsoft and Google announced new offices in Karachi and Lahore.,model:en_core_web_sm
+3,correct,Lahore,LOC,Lahore,LOC,Microsoft and Google announced new offices in Karachi and Lahore.,model:en_core_web_sm
+4,correct,Daniel Carter,PER,Daniel Carter,PER,"Mr. Daniel Carter, a spokesman for Acme Holdings Ltd, told Reuters that sales rose.",model:en_core_web_sm
+4,correct,Acme Holdings Ltd,ORG,Acme Holdings Ltd,ORG,"Mr. Daniel Carter, a spokesman for Acme Holdings Ltd, told Reuters that sales rose.",model:en_core_web_sm
+4,correct,Reuters,ORG,Reuters,ORG,"Mr. Daniel Carter, a spokesman for Acme Holdings Ltd, told Reuters that sales rose.",model:en_core_web_sm
+5,correct,Brazil,LOC,Brazil,LOC,Brazil beat Argentina 2-1 in the final of the Copa America.,model:en_core_web_sm
+5,correct,Argentina,LOC,Argentina,LOC,Brazil beat Argentina 2-1 in the final of the Copa America.,model:en_core_web_sm
+5,type_error,Copa America,MISC,Copa America,LOC,Brazil beat Argentina 2-1 in the final of the Copa America.,model:en_core_web_sm
+6,correct,European Union,ORG,European Union,ORG,The European Union and NATO leaders gathered in Brussels.,model:en_core_web_sm
+6,correct,NATO,ORG,NATO,ORG,The European Union and NATO leaders gathered in Brussels.,model:en_core_web_sm
+6,correct,Brussels,LOC,Brussels,LOC,The European Union and NATO leaders gathered in Brussels.,model:en_core_web_sm
+7,correct,Sarah Johnson,PER,Sarah Johnson,PER,"Sarah Johnson, a reporter for the BBC, wrote about the floods in Sindh.",model:en_core_web_sm
+7,correct,BBC,ORG,BBC,ORG,"Sarah Johnson, a reporter for the BBC, wrote about the floods in Sindh.",model:en_core_web_sm
+7,correct,Sindh,LOC,Sindh,LOC,"Sarah Johnson, a reporter for the BBC, wrote about the floods in Sindh.",model:en_core_web_sm
+8,missed,Tesla,ORG,,,Tesla shares fell after Elon Musk spoke to journalists in Texas.,model:en_core_web_sm
+8,correct,Elon Musk,PER,Elon Musk,PER,Tesla shares fell after Elon Musk spoke to journalists in Texas.,model:en_core_web_sm
+8,correct,Texas,LOC,Texas,LOC,Tesla shares fell after Elon Musk spoke to journalists in Texas.,model:en_core_web_sm
+9,type_error,Urdu,MISC,Urdu,LOC,The Urdu translation was released by the Higher Education Commission in Islamabad.,model:en_core_web_sm
+9,correct,Higher Education Commission,ORG,Higher Education Commission,ORG,The Urdu translation was released by the Higher Education Commission in Islamabad.,model:en_core_web_sm
+9,correct,Islamabad,LOC,Islamabad,LOC,The Urdu translation was released by the Higher Education Commission in Islamabad.,model:en_core_web_sm
+10,correct,Russian,MISC,Russian,MISC,"Russian and Ukrainian delegations will meet in Istanbul, Reuters reported.",model:en_core_web_sm
+10,correct,Ukrainian,MISC,Ukrainian,MISC,"Russian and Ukrainian delegations will meet in Istanbul, Reuters reported.",model:en_core_web_sm
+10,correct,Istanbul,LOC,Istanbul,LOC,"Russian and Ukrainian delegations will meet in Istanbul, Reuters reported.",model:en_core_web_sm
+10,correct,Reuters,ORG,Reuters,ORG,"Russian and Ukrainian delegations will meet in Istanbul, Reuters reported.",model:en_core_web_sm
+11,correct,Imran Ahmed,PER,Imran Ahmed,PER,Imran Ahmed said the University of Karachi would open a new campus.,model:en_core_web_sm
+11,correct,University of Karachi,ORG,University of Karachi,ORG,Imran Ahmed said the University of Karachi would open a new campus.,model:en_core_web_sm
+12,type_error,Peshawar,LOC,Peshawar,ORG,"Heavy rain hit Peshawar and Quetta, the Pakistan Meteorological Department said.",model:en_core_web_sm
+12,type_error,Quetta,LOC,Quetta,ORG,"Heavy rain hit Peshawar and Quetta, the Pakistan Meteorological Department said.",model:en_core_web_sm
+12,correct,Pakistan Meteorological Department,ORG,Pakistan Meteorological Department,ORG,"Heavy rain hit Peshawar and Quetta, the Pakistan Meteorological Department said.",model:en_core_web_sm
+13,correct,Apple,ORG,Apple,ORG,Apple will launch the product at an event in California next month.,model:en_core_web_sm
+13,correct,California,LOC,California,LOC,Apple will launch the product at an event in California next month.,model:en_core_web_sm
+14,correct,Maria Garcia,PER,Maria Garcia,PER,Prof. Maria Garcia from Spain joined the World Health Organization in Geneva.,model:en_core_web_sm
+14,correct,Spain,LOC,Spain,LOC,Prof. Maria Garcia from Spain joined the World Health Organization in Geneva.,model:en_core_web_sm
+14,correct,World Health Organization,ORG,World Health Organization,ORG,Prof. Maria Garcia from Spain joined the World Health Organization in Geneva.,model:en_core_web_sm
+14,correct,Geneva,LOC,Geneva,LOC,Prof. Maria Garcia from Spain joined the World Health Organization in Geneva.,model:en_core_web_sm
+0,correct,United Nations,ORG,United Nations,ORG,The United Nations said on Monday that talks in Geneva would resume next week.,model:en_core_web_md
+0,correct,Geneva,LOC,Geneva,LOC,The United Nations said on Monday that talks in Geneva would resume next week.,model:en_core_web_md
+1,correct,Ayesha Khan,PER,Ayesha Khan,PER,Dr. Ayesha Khan of the University of Oxford presented the study in London.,model:en_core_web_md
+1,correct,University of Oxford,ORG,University of Oxford,ORG,Dr. Ayesha Khan of the University of Oxford presented the study in London.,model:en_core_web_md
+1,correct,London,LOC,London,LOC,Dr. Ayesha Khan of the University of Oxford presented the study in London.,model:en_core_web_md
+2,correct,Pakistani,MISC,Pakistani,MISC,Pakistani officials in Islamabad met representatives of the World Bank on Tuesday.,model:en_core_web_md
+2,correct,Islamabad,LOC,Islamabad,LOC,Pakistani officials in Islamabad met representatives of the World Bank on Tuesday.,model:en_core_web_md
+2,correct,World Bank,ORG,World Bank,ORG,Pakistani officials in Islamabad met representatives of the World Bank on Tuesday.,model:en_core_web_md
+3,correct,Microsoft,ORG,Microsoft,ORG,Microsoft and Google announced new offices in Karachi and Lahore.,model:en_core_web_md
+3,correct,Google,ORG,Google,ORG,Microsoft and Google announced new offices in Karachi and Lahore.,model:en_core_web_md
+3,correct,Karachi,LOC,Karachi,LOC,Microsoft and Google announced new offices in Karachi and Lahore.,model:en_core_web_md
+3,correct,Lahore,LOC,Lahore,LOC,Microsoft and Google announced new offices in Karachi and Lahore.,model:en_core_web_md
+4,correct,Daniel Carter,PER,Daniel Carter,PER,"Mr. Daniel Carter, a spokesman for Acme Holdings Ltd, told Reuters that sales rose.",model:en_core_web_md
+4,correct,Acme Holdings Ltd,ORG,Acme Holdings Ltd,ORG,"Mr. Daniel Carter, a spokesman for Acme Holdings Ltd, told Reuters that sales rose.",model:en_core_web_md
+4,correct,Reuters,ORG,Reuters,ORG,"Mr. Daniel Carter, a spokesman for Acme Holdings Ltd, told Reuters that sales rose.",model:en_core_web_md
+5,correct,Brazil,LOC,Brazil,LOC,Brazil beat Argentina 2-1 in the final of the Copa America.,model:en_core_web_md
+5,correct,Argentina,LOC,Argentina,LOC,Brazil beat Argentina 2-1 in the final of the Copa America.,model:en_core_web_md
+5,type_error,Copa America,MISC,Copa America,LOC,Brazil beat Argentina 2-1 in the final of the Copa America.,model:en_core_web_md
+6,correct,European Union,ORG,European Union,ORG,The European Union and NATO leaders gathered in Brussels.,model:en_core_web_md
+6,correct,NATO,ORG,NATO,ORG,The European Union and NATO leaders gathered in Brussels.,model:en_core_web_md
+6,correct,Brussels,LOC,Brussels,LOC,The European Union and NATO leaders gathered in Brussels.,model:en_core_web_md
+7,correct,Sarah Johnson,PER,Sarah Johnson,PER,"Sarah Johnson, a reporter for the BBC, wrote about the floods in Sindh.",model:en_core_web_md
+7,correct,BBC,ORG,BBC,ORG,"Sarah Johnson, a reporter for the BBC, wrote about the floods in Sindh.",model:en_core_web_md
+7,correct,Sindh,LOC,Sindh,LOC,"Sarah Johnson, a reporter for the BBC, wrote about the floods in Sindh.",model:en_core_web_md
+8,correct,Tesla,ORG,Tesla,ORG,Tesla shares fell after Elon Musk spoke to journalists in Texas.,model:en_core_web_md
+8,correct,Elon Musk,PER,Elon Musk,PER,Tesla shares fell after Elon Musk spoke to journalists in Texas.,model:en_core_web_md
+8,correct,Texas,LOC,Texas,LOC,Tesla shares fell after Elon Musk spoke to journalists in Texas.,model:en_core_web_md
+9,type_error,Urdu,MISC,Urdu,LOC,The Urdu translation was released by the Higher Education Commission in Islamabad.,model:en_core_web_md
+9,correct,Higher Education Commission,ORG,Higher Education Commission,ORG,The Urdu translation was released by the Higher Education Commission in Islamabad.,model:en_core_web_md
+9,correct,Islamabad,LOC,Islamabad,LOC,The Urdu translation was released by the Higher Education Commission in Islamabad.,model:en_core_web_md
+10,correct,Russian,MISC,Russian,MISC,"Russian and Ukrainian delegations will meet in Istanbul, Reuters reported.",model:en_core_web_md
+10,correct,Ukrainian,MISC,Ukrainian,MISC,"Russian and Ukrainian delegations will meet in Istanbul, Reuters reported.",model:en_core_web_md
+10,correct,Istanbul,LOC,Istanbul,LOC,"Russian and Ukrainian delegations will meet in Istanbul, Reuters reported.",model:en_core_web_md
+10,correct,Reuters,ORG,Reuters,ORG,"Russian and Ukrainian delegations will meet in Istanbul, Reuters reported.",model:en_core_web_md
+11,correct,Imran Ahmed,PER,Imran Ahmed,PER,Imran Ahmed said the University of Karachi would open a new campus.,model:en_core_web_md
+11,correct,University of Karachi,ORG,University of Karachi,ORG,Imran Ahmed said the University of Karachi would open a new campus.,model:en_core_web_md
+12,correct,Peshawar,LOC,Peshawar,LOC,"Heavy rain hit Peshawar and Quetta, the Pakistan Meteorological Department said.",model:en_core_web_md
+12,correct,Quetta,LOC,Quetta,LOC,"Heavy rain hit Peshawar and Quetta, the Pakistan Meteorological Department said.",model:en_core_web_md
+12,correct,Pakistan Meteorological Department,ORG,Pakistan Meteorological Department,ORG,"Heavy rain hit Peshawar and Quetta, the Pakistan Meteorological Department said.",model:en_core_web_md
+13,correct,Apple,ORG,Apple,ORG,Apple will launch the product at an event in California next month.,model:en_core_web_md
+13,correct,California,LOC,California,LOC,Apple will launch the product at an event in California next month.,model:en_core_web_md
+14,correct,Maria Garcia,PER,Maria Garcia,PER,Prof. Maria Garcia from Spain joined the World Health Organization in Geneva.,model:en_core_web_md
+14,correct,Spain,LOC,Spain,LOC,Prof. Maria Garcia from Spain joined the World Health Organization in Geneva.,model:en_core_web_md
+14,correct,World Health Organization,ORG,World Health Organization,ORG,Prof. Maria Garcia from Spain joined the World Health Organization in Geneva.,model:en_core_web_md
+14,correct,Geneva,LOC,Geneva,LOC,Prof. Maria Garcia from Spain joined the World Health Organization in Geneva.,model:en_core_web_md
+0,correct,United Nations,ORG,United Nations,ORG,The United Nations said on Monday that talks in Geneva would resume next week.,hybrid:en_core_web_sm
+0,correct,Geneva,LOC,Geneva,LOC,The United Nations said on Monday that talks in Geneva would resume next week.,hybrid:en_core_web_sm
+1,correct,Ayesha Khan,PER,Ayesha Khan,PER,Dr. Ayesha Khan of the University of Oxford presented the study in London.,hybrid:en_core_web_sm
+1,correct,University of Oxford,ORG,University of Oxford,ORG,Dr. Ayesha Khan of the University of Oxford presented the study in London.,hybrid:en_core_web_sm
+1,correct,London,LOC,London,LOC,Dr. Ayesha Khan of the University of Oxford presented the study in London.,hybrid:en_core_web_sm
+2,correct,Pakistani,MISC,Pakistani,MISC,Pakistani officials in Islamabad met representatives of the World Bank on Tuesday.,hybrid:en_core_web_sm
+2,correct,Islamabad,LOC,Islamabad,LOC,Pakistani officials in Islamabad met representatives of the World Bank on Tuesday.,hybrid:en_core_web_sm
+2,correct,World Bank,ORG,World Bank,ORG,Pakistani officials in Islamabad met representatives of the World Bank on Tuesday.,hybrid:en_core_web_sm
+3,correct,Microsoft,ORG,Microsoft,ORG,Microsoft and Google announced new offices in Karachi and Lahore.,hybrid:en_core_web_sm
+3,correct,Google,ORG,Google,ORG,Microsoft and Google announced new offices in Karachi and Lahore.,hybrid:en_core_web_sm
+3,correct,Karachi,LOC,Karachi,LOC,Microsoft and Google announced new offices in Karachi and Lahore.,hybrid:en_core_web_sm
+3,correct,Lahore,LOC,Lahore,LOC,Microsoft and Google announced new offices in Karachi and Lahore.,hybrid:en_core_web_sm
+4,correct,Daniel Carter,PER,Daniel Carter,PER,"Mr. Daniel Carter, a spokesman for Acme Holdings Ltd, told Reuters that sales rose.",hybrid:en_core_web_sm
+4,correct,Acme Holdings Ltd,ORG,Acme Holdings Ltd,ORG,"Mr. Daniel Carter, a spokesman for Acme Holdings Ltd, told Reuters that sales rose.",hybrid:en_core_web_sm
+4,correct,Reuters,ORG,Reuters,ORG,"Mr. Daniel Carter, a spokesman for Acme Holdings Ltd, told Reuters that sales rose.",hybrid:en_core_web_sm
+5,correct,Brazil,LOC,Brazil,LOC,Brazil beat Argentina 2-1 in the final of the Copa America.,hybrid:en_core_web_sm
+5,correct,Argentina,LOC,Argentina,LOC,Brazil beat Argentina 2-1 in the final of the Copa America.,hybrid:en_core_web_sm
+5,type_error,Copa America,MISC,Copa America,LOC,Brazil beat Argentina 2-1 in the final of the Copa America.,hybrid:en_core_web_sm
+6,correct,European Union,ORG,European Union,ORG,The European Union and NATO leaders gathered in Brussels.,hybrid:en_core_web_sm
+6,correct,NATO,ORG,NATO,ORG,The European Union and NATO leaders gathered in Brussels.,hybrid:en_core_web_sm
+6,correct,Brussels,LOC,Brussels,LOC,The European Union and NATO leaders gathered in Brussels.,hybrid:en_core_web_sm
+7,correct,Sarah Johnson,PER,Sarah Johnson,PER,"Sarah Johnson, a reporter for the BBC, wrote about the floods in Sindh.",hybrid:en_core_web_sm
+7,correct,BBC,ORG,BBC,ORG,"Sarah Johnson, a reporter for the BBC, wrote about the floods in Sindh.",hybrid:en_core_web_sm
+7,correct,Sindh,LOC,Sindh,LOC,"Sarah Johnson, a reporter for the BBC, wrote about the floods in Sindh.",hybrid:en_core_web_sm
+8,correct,Tesla,ORG,Tesla,ORG,Tesla shares fell after Elon Musk spoke to journalists in Texas.,hybrid:en_core_web_sm
+8,correct,Elon Musk,PER,Elon Musk,PER,Tesla shares fell after Elon Musk spoke to journalists in Texas.,hybrid:en_core_web_sm
+8,correct,Texas,LOC,Texas,LOC,Tesla shares fell after Elon Musk spoke to journalists in Texas.,hybrid:en_core_web_sm
+9,type_error,Urdu,MISC,Urdu,LOC,The Urdu translation was released by the Higher Education Commission in Islamabad.,hybrid:en_core_web_sm
+9,correct,Higher Education Commission,ORG,Higher Education Commission,ORG,The Urdu translation was released by the Higher Education Commission in Islamabad.,hybrid:en_core_web_sm
+9,correct,Islamabad,LOC,Islamabad,LOC,The Urdu translation was released by the Higher Education Commission in Islamabad.,hybrid:en_core_web_sm
+10,correct,Russian,MISC,Russian,MISC,"Russian and Ukrainian delegations will meet in Istanbul, Reuters reported.",hybrid:en_core_web_sm
+10,correct,Ukrainian,MISC,Ukrainian,MISC,"Russian and Ukrainian delegations will meet in Istanbul, Reuters reported.",hybrid:en_core_web_sm
+10,correct,Istanbul,LOC,Istanbul,LOC,"Russian and Ukrainian delegations will meet in Istanbul, Reuters reported.",hybrid:en_core_web_sm
+10,correct,Reuters,ORG,Reuters,ORG,"Russian and Ukrainian delegations will meet in Istanbul, Reuters reported.",hybrid:en_core_web_sm
+11,correct,Imran Ahmed,PER,Imran Ahmed,PER,Imran Ahmed said the University of Karachi would open a new campus.,hybrid:en_core_web_sm
+11,correct,University of Karachi,ORG,University of Karachi,ORG,Imran Ahmed said the University of Karachi would open a new campus.,hybrid:en_core_web_sm
+12,type_error,Peshawar,LOC,Peshawar,ORG,"Heavy rain hit Peshawar and Quetta, the Pakistan Meteorological Department said.",hybrid:en_core_web_sm
+12,type_error,Quetta,LOC,Quetta,ORG,"Heavy rain hit Peshawar and Quetta, the Pakistan Meteorological Department said.",hybrid:en_core_web_sm
+12,correct,Pakistan Meteorological Department,ORG,Pakistan Meteorological Department,ORG,"Heavy rain hit Peshawar and Quetta, the Pakistan Meteorological Department said.",hybrid:en_core_web_sm
+13,correct,Apple,ORG,Apple,ORG,Apple will launch the product at an event in California next month.,hybrid:en_core_web_sm
+13,correct,California,LOC,California,LOC,Apple will launch the product at an event in California next month.,hybrid:en_core_web_sm
+14,correct,Maria Garcia,PER,Maria Garcia,PER,Prof. Maria Garcia from Spain joined the World Health Organization in Geneva.,hybrid:en_core_web_sm
+14,correct,Spain,LOC,Spain,LOC,Prof. Maria Garcia from Spain joined the World Health Organization in Geneva.,hybrid:en_core_web_sm
+14,correct,World Health Organization,ORG,World Health Organization,ORG,Prof. Maria Garcia from Spain joined the World Health Organization in Geneva.,hybrid:en_core_web_sm
+14,correct,Geneva,LOC,Geneva,LOC,Prof. Maria Garcia from Spain joined the World Health Organization in Geneva.,hybrid:en_core_web_sm
+0,correct,United Nations,ORG,United Nations,ORG,The United Nations said on Monday that talks in Geneva would resume next week.,hybrid:en_core_web_md
+0,correct,Geneva,LOC,Geneva,LOC,The United Nations said on Monday that talks in Geneva would resume next week.,hybrid:en_core_web_md
+1,correct,Ayesha Khan,PER,Ayesha Khan,PER,Dr. Ayesha Khan of the University of Oxford presented the study in London.,hybrid:en_core_web_md
+1,correct,University of Oxford,ORG,University of Oxford,ORG,Dr. Ayesha Khan of the University of Oxford presented the study in London.,hybrid:en_core_web_md
+1,correct,London,LOC,London,LOC,Dr. Ayesha Khan of the University of Oxford presented the study in London.,hybrid:en_core_web_md
+2,correct,Pakistani,MISC,Pakistani,MISC,Pakistani officials in Islamabad met representatives of the World Bank on Tuesday.,hybrid:en_core_web_md
+2,correct,Islamabad,LOC,Islamabad,LOC,Pakistani officials in Islamabad met representatives of the World Bank on Tuesday.,hybrid:en_core_web_md
+2,correct,World Bank,ORG,World Bank,ORG,Pakistani officials in Islamabad met representatives of the World Bank on Tuesday.,hybrid:en_core_web_md
+3,correct,Microsoft,ORG,Microsoft,ORG,Microsoft and Google announced new offices in Karachi and Lahore.,hybrid:en_core_web_md
+3,correct,Google,ORG,Google,ORG,Microsoft and Google announced new offices in Karachi and Lahore.,hybrid:en_core_web_md
+3,correct,Karachi,LOC,Karachi,LOC,Microsoft and Google announced new offices in Karachi and Lahore.,hybrid:en_core_web_md
+3,correct,Lahore,LOC,Lahore,LOC,Microsoft and Google announced new offices in Karachi and Lahore.,hybrid:en_core_web_md
+4,correct,Daniel Carter,PER,Daniel Carter,PER,"Mr. Daniel Carter, a spokesman for Acme Holdings Ltd, told Reuters that sales rose.",hybrid:en_core_web_md
+4,correct,Acme Holdings Ltd,ORG,Acme Holdings Ltd,ORG,"Mr. Daniel Carter, a spokesman for Acme Holdings Ltd, told Reuters that sales rose.",hybrid:en_core_web_md
+4,correct,Reuters,ORG,Reuters,ORG,"Mr. Daniel Carter, a spokesman for Acme Holdings Ltd, told Reuters that sales rose.",hybrid:en_core_web_md
+5,correct,Brazil,LOC,Brazil,LOC,Brazil beat Argentina 2-1 in the final of the Copa America.,hybrid:en_core_web_md
+5,correct,Argentina,LOC,Argentina,LOC,Brazil beat Argentina 2-1 in the final of the Copa America.,hybrid:en_core_web_md
+5,type_error,Copa America,MISC,Copa America,LOC,Brazil beat Argentina 2-1 in the final of the Copa America.,hybrid:en_core_web_md
+6,correct,European Union,ORG,European Union,ORG,The European Union and NATO leaders gathered in Brussels.,hybrid:en_core_web_md
+6,correct,NATO,ORG,NATO,ORG,The European Union and NATO leaders gathered in Brussels.,hybrid:en_core_web_md
+6,correct,Brussels,LOC,Brussels,LOC,The European Union and NATO leaders gathered in Brussels.,hybrid:en_core_web_md
+7,correct,Sarah Johnson,PER,Sarah Johnson,PER,"Sarah Johnson, a reporter for the BBC, wrote about the floods in Sindh.",hybrid:en_core_web_md
+7,correct,BBC,ORG,BBC,ORG,"Sarah Johnson, a reporter for the BBC, wrote about the floods in Sindh.",hybrid:en_core_web_md
+7,correct,Sindh,LOC,Sindh,LOC,"Sarah Johnson, a reporter for the BBC, wrote about the floods in Sindh.",hybrid:en_core_web_md
+8,correct,Tesla,ORG,Tesla,ORG,Tesla shares fell after Elon Musk spoke to journalists in Texas.,hybrid:en_core_web_md
+8,correct,Elon Musk,PER,Elon Musk,PER,Tesla shares fell after Elon Musk spoke to journalists in Texas.,hybrid:en_core_web_md
+8,correct,Texas,LOC,Texas,LOC,Tesla shares fell after Elon Musk spoke to journalists in Texas.,hybrid:en_core_web_md
+9,type_error,Urdu,MISC,Urdu,LOC,The Urdu translation was released by the Higher Education Commission in Islamabad.,hybrid:en_core_web_md
+9,correct,Higher Education Commission,ORG,Higher Education Commission,ORG,The Urdu translation was released by the Higher Education Commission in Islamabad.,hybrid:en_core_web_md
+9,correct,Islamabad,LOC,Islamabad,LOC,The Urdu translation was released by the Higher Education Commission in Islamabad.,hybrid:en_core_web_md
+10,correct,Russian,MISC,Russian,MISC,"Russian and Ukrainian delegations will meet in Istanbul, Reuters reported.",hybrid:en_core_web_md
+10,correct,Ukrainian,MISC,Ukrainian,MISC,"Russian and Ukrainian delegations will meet in Istanbul, Reuters reported.",hybrid:en_core_web_md
+10,correct,Istanbul,LOC,Istanbul,LOC,"Russian and Ukrainian delegations will meet in Istanbul, Reuters reported.",hybrid:en_core_web_md
+10,correct,Reuters,ORG,Reuters,ORG,"Russian and Ukrainian delegations will meet in Istanbul, Reuters reported.",hybrid:en_core_web_md
+11,correct,Imran Ahmed,PER,Imran Ahmed,PER,Imran Ahmed said the University of Karachi would open a new campus.,hybrid:en_core_web_md
+11,correct,University of Karachi,ORG,University of Karachi,ORG,Imran Ahmed said the University of Karachi would open a new campus.,hybrid:en_core_web_md
+12,correct,Peshawar,LOC,Peshawar,LOC,"Heavy rain hit Peshawar and Quetta, the Pakistan Meteorological Department said.",hybrid:en_core_web_md
+12,correct,Quetta,LOC,Quetta,LOC,"Heavy rain hit Peshawar and Quetta, the Pakistan Meteorological Department said.",hybrid:en_core_web_md
+12,correct,Pakistan Meteorological Department,ORG,Pakistan Meteorological Department,ORG,"Heavy rain hit Peshawar and Quetta, the Pakistan Meteorological Department said.",hybrid:en_core_web_md
+13,correct,Apple,ORG,Apple,ORG,Apple will launch the product at an event in California next month.,hybrid:en_core_web_md
+13,correct,California,LOC,California,LOC,Apple will launch the product at an event in California next month.,hybrid:en_core_web_md
+14,correct,Maria Garcia,PER,Maria Garcia,PER,Prof. Maria Garcia from Spain joined the World Health Organization in Geneva.,hybrid:en_core_web_md
+14,correct,Spain,LOC,Spain,LOC,Prof. Maria Garcia from Spain joined the World Health Organization in Geneva.,hybrid:en_core_web_md
+14,correct,World Health Organization,ORG,World Health Organization,ORG,Prof. Maria Garcia from Spain joined the World Health Organization in Geneva.,hybrid:en_core_web_md
+14,correct,Geneva,LOC,Geneva,LOC,Prof. Maria Garcia from Spain joined the World Health Organization in Geneva.,hybrid:en_core_web_md
+0,correct,United Nations,ORG,United Nations,ORG,The United Nations said on Monday that talks in Geneva would resume next week.,hybrid-rules-first:en_core_web_sm
+0,correct,Geneva,LOC,Geneva,LOC,The United Nations said on Monday that talks in Geneva would resume next week.,hybrid-rules-first:en_core_web_sm
+1,correct,Ayesha Khan,PER,Ayesha Khan,PER,Dr. Ayesha Khan of the University of Oxford presented the study in London.,hybrid-rules-first:en_core_web_sm
+1,correct,University of Oxford,ORG,University of Oxford,ORG,Dr. Ayesha Khan of the University of Oxford presented the study in London.,hybrid-rules-first:en_core_web_sm
+1,correct,London,LOC,London,LOC,Dr. Ayesha Khan of the University of Oxford presented the study in London.,hybrid-rules-first:en_core_web_sm
+2,correct,Pakistani,MISC,Pakistani,MISC,Pakistani officials in Islamabad met representatives of the World Bank on Tuesday.,hybrid-rules-first:en_core_web_sm
+2,correct,Islamabad,LOC,Islamabad,LOC,Pakistani officials in Islamabad met representatives of the World Bank on Tuesday.,hybrid-rules-first:en_core_web_sm
+2,correct,World Bank,ORG,World Bank,ORG,Pakistani officials in Islamabad met representatives of the World Bank on Tuesday.,hybrid-rules-first:en_core_web_sm
+3,correct,Microsoft,ORG,Microsoft,ORG,Microsoft and Google announced new offices in Karachi and Lahore.,hybrid-rules-first:en_core_web_sm
+3,correct,Google,ORG,Google,ORG,Microsoft and Google announced new offices in Karachi and Lahore.,hybrid-rules-first:en_core_web_sm
+3,correct,Karachi,LOC,Karachi,LOC,Microsoft and Google announced new offices in Karachi and Lahore.,hybrid-rules-first:en_core_web_sm
+3,correct,Lahore,LOC,Lahore,LOC,Microsoft and Google announced new offices in Karachi and Lahore.,hybrid-rules-first:en_core_web_sm
+4,correct,Daniel Carter,PER,Daniel Carter,PER,"Mr. Daniel Carter, a spokesman for Acme Holdings Ltd, told Reuters that sales rose.",hybrid-rules-first:en_core_web_sm
+4,correct,Acme Holdings Ltd,ORG,Acme Holdings Ltd,ORG,"Mr. Daniel Carter, a spokesman for Acme Holdings Ltd, told Reuters that sales rose.",hybrid-rules-first:en_core_web_sm
+4,correct,Reuters,ORG,Reuters,ORG,"Mr. Daniel Carter, a spokesman for Acme Holdings Ltd, told Reuters that sales rose.",hybrid-rules-first:en_core_web_sm
+5,correct,Brazil,LOC,Brazil,LOC,Brazil beat Argentina 2-1 in the final of the Copa America.,hybrid-rules-first:en_core_web_sm
+5,correct,Argentina,LOC,Argentina,LOC,Brazil beat Argentina 2-1 in the final of the Copa America.,hybrid-rules-first:en_core_web_sm
+5,correct,Copa America,MISC,Copa America,MISC,Brazil beat Argentina 2-1 in the final of the Copa America.,hybrid-rules-first:en_core_web_sm
+6,correct,European Union,ORG,European Union,ORG,The European Union and NATO leaders gathered in Brussels.,hybrid-rules-first:en_core_web_sm
+6,correct,NATO,ORG,NATO,ORG,The European Union and NATO leaders gathered in Brussels.,hybrid-rules-first:en_core_web_sm
+6,correct,Brussels,LOC,Brussels,LOC,The European Union and NATO leaders gathered in Brussels.,hybrid-rules-first:en_core_web_sm
+7,correct,Sarah Johnson,PER,Sarah Johnson,PER,"Sarah Johnson, a reporter for the BBC, wrote about the floods in Sindh.",hybrid-rules-first:en_core_web_sm
+7,correct,BBC,ORG,BBC,ORG,"Sarah Johnson, a reporter for the BBC, wrote about the floods in Sindh.",hybrid-rules-first:en_core_web_sm
+7,correct,Sindh,LOC,Sindh,LOC,"Sarah Johnson, a reporter for the BBC, wrote about the floods in Sindh.",hybrid-rules-first:en_core_web_sm
+8,correct,Tesla,ORG,Tesla,ORG,Tesla shares fell after Elon Musk spoke to journalists in Texas.,hybrid-rules-first:en_core_web_sm
+8,correct,Elon Musk,PER,Elon Musk,PER,Tesla shares fell after Elon Musk spoke to journalists in Texas.,hybrid-rules-first:en_core_web_sm
+8,correct,Texas,LOC,Texas,LOC,Tesla shares fell after Elon Musk spoke to journalists in Texas.,hybrid-rules-first:en_core_web_sm
+9,correct,Urdu,MISC,Urdu,MISC,The Urdu translation was released by the Higher Education Commission in Islamabad.,hybrid-rules-first:en_core_web_sm
+9,correct,Higher Education Commission,ORG,Higher Education Commission,ORG,The Urdu translation was released by the Higher Education Commission in Islamabad.,hybrid-rules-first:en_core_web_sm
+9,correct,Islamabad,LOC,Islamabad,LOC,The Urdu translation was released by the Higher Education Commission in Islamabad.,hybrid-rules-first:en_core_web_sm
+10,correct,Russian,MISC,Russian,MISC,"Russian and Ukrainian delegations will meet in Istanbul, Reuters reported.",hybrid-rules-first:en_core_web_sm
+10,correct,Ukrainian,MISC,Ukrainian,MISC,"Russian and Ukrainian delegations will meet in Istanbul, Reuters reported.",hybrid-rules-first:en_core_web_sm
+10,correct,Istanbul,LOC,Istanbul,LOC,"Russian and Ukrainian delegations will meet in Istanbul, Reuters reported.",hybrid-rules-first:en_core_web_sm
+10,correct,Reuters,ORG,Reuters,ORG,"Russian and Ukrainian delegations will meet in Istanbul, Reuters reported.",hybrid-rules-first:en_core_web_sm
+11,correct,Imran Ahmed,PER,Imran Ahmed,PER,Imran Ahmed said the University of Karachi would open a new campus.,hybrid-rules-first:en_core_web_sm
+11,correct,University of Karachi,ORG,University of Karachi,ORG,Imran Ahmed said the University of Karachi would open a new campus.,hybrid-rules-first:en_core_web_sm
+12,correct,Peshawar,LOC,Peshawar,LOC,"Heavy rain hit Peshawar and Quetta, the Pakistan Meteorological Department said.",hybrid-rules-first:en_core_web_sm
+12,correct,Quetta,LOC,Quetta,LOC,"Heavy rain hit Peshawar and Quetta, the Pakistan Meteorological Department said.",hybrid-rules-first:en_core_web_sm
+12,correct,Pakistan Meteorological Department,ORG,Pakistan Meteorological Department,ORG,"Heavy rain hit Peshawar and Quetta, the Pakistan Meteorological Department said.",hybrid-rules-first:en_core_web_sm
+13,correct,Apple,ORG,Apple,ORG,Apple will launch the product at an event in California next month.,hybrid-rules-first:en_core_web_sm
+13,correct,California,LOC,California,LOC,Apple will launch the product at an event in California next month.,hybrid-rules-first:en_core_web_sm
+14,correct,Maria Garcia,PER,Maria Garcia,PER,Prof. Maria Garcia from Spain joined the World Health Organization in Geneva.,hybrid-rules-first:en_core_web_sm
+14,correct,Spain,LOC,Spain,LOC,Prof. Maria Garcia from Spain joined the World Health Organization in Geneva.,hybrid-rules-first:en_core_web_sm
+14,correct,World Health Organization,ORG,World Health Organization,ORG,Prof. Maria Garcia from Spain joined the World Health Organization in Geneva.,hybrid-rules-first:en_core_web_sm
+14,correct,Geneva,LOC,Geneva,LOC,Prof. Maria Garcia from Spain joined the World Health Organization in Geneva.,hybrid-rules-first:en_core_web_sm
+0,correct,United Nations,ORG,United Nations,ORG,The United Nations said on Monday that talks in Geneva would resume next week.,hybrid-rules-first:en_core_web_md
+0,correct,Geneva,LOC,Geneva,LOC,The United Nations said on Monday that talks in Geneva would resume next week.,hybrid-rules-first:en_core_web_md
+1,correct,Ayesha Khan,PER,Ayesha Khan,PER,Dr. Ayesha Khan of the University of Oxford presented the study in London.,hybrid-rules-first:en_core_web_md
+1,correct,University of Oxford,ORG,University of Oxford,ORG,Dr. Ayesha Khan of the University of Oxford presented the study in London.,hybrid-rules-first:en_core_web_md
+1,correct,London,LOC,London,LOC,Dr. Ayesha Khan of the University of Oxford presented the study in London.,hybrid-rules-first:en_core_web_md
+2,correct,Pakistani,MISC,Pakistani,MISC,Pakistani officials in Islamabad met representatives of the World Bank on Tuesday.,hybrid-rules-first:en_core_web_md
+2,correct,Islamabad,LOC,Islamabad,LOC,Pakistani officials in Islamabad met representatives of the World Bank on Tuesday.,hybrid-rules-first:en_core_web_md
+2,correct,World Bank,ORG,World Bank,ORG,Pakistani officials in Islamabad met representatives of the World Bank on Tuesday.,hybrid-rules-first:en_core_web_md
+3,correct,Microsoft,ORG,Microsoft,ORG,Microsoft and Google announced new offices in Karachi and Lahore.,hybrid-rules-first:en_core_web_md
+3,correct,Google,ORG,Google,ORG,Microsoft and Google announced new offices in Karachi and Lahore.,hybrid-rules-first:en_core_web_md
+3,correct,Karachi,LOC,Karachi,LOC,Microsoft and Google announced new offices in Karachi and Lahore.,hybrid-rules-first:en_core_web_md
+3,correct,Lahore,LOC,Lahore,LOC,Microsoft and Google announced new offices in Karachi and Lahore.,hybrid-rules-first:en_core_web_md
+4,correct,Daniel Carter,PER,Daniel Carter,PER,"Mr. Daniel Carter, a spokesman for Acme Holdings Ltd, told Reuters that sales rose.",hybrid-rules-first:en_core_web_md
+4,correct,Acme Holdings Ltd,ORG,Acme Holdings Ltd,ORG,"Mr. Daniel Carter, a spokesman for Acme Holdings Ltd, told Reuters that sales rose.",hybrid-rules-first:en_core_web_md
+4,correct,Reuters,ORG,Reuters,ORG,"Mr. Daniel Carter, a spokesman for Acme Holdings Ltd, told Reuters that sales rose.",hybrid-rules-first:en_core_web_md
+5,correct,Brazil,LOC,Brazil,LOC,Brazil beat Argentina 2-1 in the final of the Copa America.,hybrid-rules-first:en_core_web_md
+5,correct,Argentina,LOC,Argentina,LOC,Brazil beat Argentina 2-1 in the final of the Copa America.,hybrid-rules-first:en_core_web_md
+5,correct,Copa America,MISC,Copa America,MISC,Brazil beat Argentina 2-1 in the final of the Copa America.,hybrid-rules-first:en_core_web_md
+6,correct,European Union,ORG,European Union,ORG,The European Union and NATO leaders gathered in Brussels.,hybrid-rules-first:en_core_web_md
+6,correct,NATO,ORG,NATO,ORG,The European Union and NATO leaders gathered in Brussels.,hybrid-rules-first:en_core_web_md
+6,correct,Brussels,LOC,Brussels,LOC,The European Union and NATO leaders gathered in Brussels.,hybrid-rules-first:en_core_web_md
+7,correct,Sarah Johnson,PER,Sarah Johnson,PER,"Sarah Johnson, a reporter for the BBC, wrote about the floods in Sindh.",hybrid-rules-first:en_core_web_md
+7,correct,BBC,ORG,BBC,ORG,"Sarah Johnson, a reporter for the BBC, wrote about the floods in Sindh.",hybrid-rules-first:en_core_web_md
+7,correct,Sindh,LOC,Sindh,LOC,"Sarah Johnson, a reporter for the BBC, wrote about the floods in Sindh.",hybrid-rules-first:en_core_web_md
+8,correct,Tesla,ORG,Tesla,ORG,Tesla shares fell after Elon Musk spoke to journalists in Texas.,hybrid-rules-first:en_core_web_md
+8,correct,Elon Musk,PER,Elon Musk,PER,Tesla shares fell after Elon Musk spoke to journalists in Texas.,hybrid-rules-first:en_core_web_md
+8,correct,Texas,LOC,Texas,LOC,Tesla shares fell after Elon Musk spoke to journalists in Texas.,hybrid-rules-first:en_core_web_md
+9,correct,Urdu,MISC,Urdu,MISC,The Urdu translation was released by the Higher Education Commission in Islamabad.,hybrid-rules-first:en_core_web_md
+9,correct,Higher Education Commission,ORG,Higher Education Commission,ORG,The Urdu translation was released by the Higher Education Commission in Islamabad.,hybrid-rules-first:en_core_web_md
+9,correct,Islamabad,LOC,Islamabad,LOC,The Urdu translation was released by the Higher Education Commission in Islamabad.,hybrid-rules-first:en_core_web_md
+10,correct,Russian,MISC,Russian,MISC,"Russian and Ukrainian delegations will meet in Istanbul, Reuters reported.",hybrid-rules-first:en_core_web_md
+10,correct,Ukrainian,MISC,Ukrainian,MISC,"Russian and Ukrainian delegations will meet in Istanbul, Reuters reported.",hybrid-rules-first:en_core_web_md
+10,correct,Istanbul,LOC,Istanbul,LOC,"Russian and Ukrainian delegations will meet in Istanbul, Reuters reported.",hybrid-rules-first:en_core_web_md
+10,correct,Reuters,ORG,Reuters,ORG,"Russian and Ukrainian delegations will meet in Istanbul, Reuters reported.",hybrid-rules-first:en_core_web_md
+11,correct,Imran Ahmed,PER,Imran Ahmed,PER,Imran Ahmed said the University of Karachi would open a new campus.,hybrid-rules-first:en_core_web_md
+11,correct,University of Karachi,ORG,University of Karachi,ORG,Imran Ahmed said the University of Karachi would open a new campus.,hybrid-rules-first:en_core_web_md
+12,correct,Peshawar,LOC,Peshawar,LOC,"Heavy rain hit Peshawar and Quetta, the Pakistan Meteorological Department said.",hybrid-rules-first:en_core_web_md
+12,correct,Quetta,LOC,Quetta,LOC,"Heavy rain hit Peshawar and Quetta, the Pakistan Meteorological Department said.",hybrid-rules-first:en_core_web_md
+12,correct,Pakistan Meteorological Department,ORG,Pakistan Meteorological Department,ORG,"Heavy rain hit Peshawar and Quetta, the Pakistan Meteorological Department said.",hybrid-rules-first:en_core_web_md
+13,correct,Apple,ORG,Apple,ORG,Apple will launch the product at an event in California next month.,hybrid-rules-first:en_core_web_md
+13,correct,California,LOC,California,LOC,Apple will launch the product at an event in California next month.,hybrid-rules-first:en_core_web_md
+14,correct,Maria Garcia,PER,Maria Garcia,PER,Prof. Maria Garcia from Spain joined the World Health Organization in Geneva.,hybrid-rules-first:en_core_web_md
+14,correct,Spain,LOC,Spain,LOC,Prof. Maria Garcia from Spain joined the World Health Organization in Geneva.,hybrid-rules-first:en_core_web_md
+14,correct,World Health Organization,ORG,World Health Organization,ORG,Prof. Maria Garcia from Spain joined the World Health Organization in Geneva.,hybrid-rules-first:en_core_web_md
+14,correct,Geneva,LOC,Geneva,LOC,Prof. Maria Garcia from Spain joined the World Health Organization in Geneva.,hybrid-rules-first:en_core_web_md

@@ -1,0 +1,99 @@
+# Sub-national regions, provinces, states and geographic features -> LOC
+Punjab
+Sindh
+Balochistan
+Khyber Pakhtunkhwa
+Gilgit-Baltistan
+Azad Kashmir
+Kurram
+Waziristan
+North Waziristan
+South Waziristan
+Bajaur
+Swat
+Chitral
+Tharparkar
+Thar
+Indus
+Karakoram
+Himalayas
+Hindu Kush
+Khyber Pass
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+Florida
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York State
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+West Virginia
+Wisconsin
+Wyoming
+Ontario
+Quebec
+British Columbia
+Alberta
+Manitoba
+Bavaria
+Catalonia
+Tuscany
+Siberia
+Crimea
+Donbas
+Tibet
+Xinjiang
+Yorkshire
+Lancashire
+Atlantic Ocean
+Pacific Ocean
+Indian Ocean
+Arabian Sea
+Mediterranean
+Black Sea
+Red Sea
+Persian Gulf
+Caribbean
+Sahara
+Amazon
+Nile
+Danube
+Rhine
+Mount Everest

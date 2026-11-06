@@ -1,0 +1,47 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ner-news"
+version = "1.0.0"
+description = "Named Entity Recognition (NER) for news articles with spaCy: rule-based, model-based and hybrid approaches evaluated on CoNLL-2003."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "Salik Hussain" }]
+keywords = ["nlp", "ner", "named-entity-recognition", "spacy", "conll-2003", "news"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+dependencies = [
+    "spacy>=3.7,<4",
+    "pandas>=1.5",
+    "matplotlib>=3.6",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7", "ruff>=0.4"]
+
+[project.scripts]
+ner-news = "ner_news.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+ner_news = ["resources/gazetteers/*.txt"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = ["model: tests that need a downloaded spaCy model"]
+
+[tool.ruff]
+line-length = 130
+target-version = "py39"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "W"]
+ignore = ["E501"]

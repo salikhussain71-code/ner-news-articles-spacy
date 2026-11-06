@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as below."
+title: "ner-news-articles-spacy: Named Entity Recognition for News Articles with spaCy"
+type: software
+authors:
+  - family-names: "Hussain"
+    given-names: "Salik"
+repository-code: "https://github.com/salikhussain71-code/ner-news-articles-spacy"
+license: MIT
+version: 1.0.0
+date-released: 2026-11-06
+keywords: [nlp, ner, spacy, conll-2003, named-entity-recognition]

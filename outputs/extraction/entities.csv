@@ -1,0 +1,35 @@
+doc_id,entity,label,start_char,end_char,start_token,end_token,approach
+0,ISLAMABAD,LOC,0,9,0,1,hybrid:en_core_web_sm
+0,World Bank,ORG,31,41,5,7,hybrid:en_core_web_sm
+0,Higher Education Commission,ORG,50,77,9,12,hybrid:en_core_web_sm
+0,Islamabad,LOC,85,94,14,15,hybrid:en_core_web_sm
+0,Ayesha Khan,PER,154,165,25,27,hybrid:en_core_web_sm
+0,University of Karachi,ORG,173,194,29,32,hybrid:en_core_web_sm
+0,Punjab,MISC,246,252,40,41,hybrid:en_core_web_sm
+0,Sindh,LOC,254,259,42,43,hybrid:en_core_web_sm
+0,Khyber Pakhtunkhwa,ORG,264,282,44,46,hybrid:en_core_web_sm
+0,Reuters,ORG,284,291,47,48,hybrid:en_core_web_sm
+1,GENEVA,LOC,0,6,0,1,hybrid:en_core_web_sm
+1,World Health Organization,ORG,13,38,3,6,hybrid:en_core_web_sm
+1,Brazil,LOC,87,93,14,15,hybrid:en_core_web_sm
+1,Japan,LOC,95,100,16,17,hybrid:en_core_web_sm
+1,Germany,LOC,105,112,18,19,hybrid:en_core_web_sm
+1,Maria Garcia,PER,143,155,25,27,hybrid:en_core_web_sm
+1,BBC,ORG,165,168,29,30,hybrid:en_core_web_sm
+1,European,MISC,174,182,31,32,hybrid:en_core_web_sm
+1,Asian,MISC,187,192,33,34,hybrid:en_core_web_sm
+1,Microsoft,ORG,230,239,41,42,hybrid:en_core_web_sm
+1,Google,ORG,244,250,43,44,hybrid:en_core_web_sm
+1,London,LOC,290,296,50,51,hybrid:en_core_web_sm
+2,LAHORE - Heavy,ORG,0,14,0,3,hybrid:en_core_web_sm
+2,Lahore,LOC,24,30,5,6,hybrid:en_core_web_sm
+2,Rawalpindi,PER,35,45,7,8,hybrid:en_core_web_sm
+2,Pakistan Meteorological Department,ORG,61,95,12,15,hybrid:en_core_web_sm
+2,Daniel Carter,PER,106,119,18,20,hybrid:en_core_web_sm
+2,Acme Holdings Ltd,ORG,137,154,24,27,hybrid:en_core_web_sm
+2,Pakistani,MISC,166,175,30,31,hybrid:en_core_web_sm
+2,Chinese,MISC,180,187,32,33,hybrid:en_core_web_sm
+2,Indus River,LOC,228,239,39,41,hybrid:en_core_web_sm
+2,Sarah Johnson,PER,241,254,42,44,hybrid:en_core_web_sm
+2,Urdu,LOC,264,268,46,47,hybrid:en_core_web_sm
+2,United Nations,ORG,302,316,53,55,hybrid:en_core_web_sm

@@ -1,0 +1,152 @@
+# Organisations -> ORG
+United Nations
+UN
+UNICEF
+UNESCO
+UNHCR
+NATO
+European Union
+EU
+European Commission
+European Parliament
+World Health Organization
+WHO
+World Bank
+International Monetary Fund
+IMF
+World Trade Organization
+WTO
+OPEC
+FIFA
+UEFA
+ICC
+International Cricket Council
+IOC
+International Olympic Committee
+NASA
+ESA
+SpaceX
+FBI
+CIA
+NSA
+Interpol
+Europol
+Pentagon
+White House
+Kremlin
+Congress
+Senate
+House of Representatives
+Supreme Court
+Federal Reserve
+Reuters
+BBC
+CNN
+Associated Press
+AP
+AFP
+Al Jazeera
+Bloomberg
+Dawn
+Geo News
+Express Tribune
+The New York Times
+New York Times
+Washington Post
+The Guardian
+Financial Times
+Google
+Alphabet
+Microsoft
+Apple
+Amazon
+Meta
+Facebook
+Instagram
+WhatsApp
+Twitter
+YouTube
+Netflix
+Tesla
+Nvidia
+Intel
+IBM
+Oracle
+OpenAI
+Anthropic
+Samsung
+Huawei
+Alibaba
+Tencent
+Toyota
+Honda
+Volkswagen
+BMW
+Siemens
+Nestle
+Unilever
+Shell
+BP
+Exxon
+Boeing
+Airbus
+Barclays
+HSBC
+JPMorgan
+Goldman Sachs
+Citigroup
+Harvard University
+Stanford University
+Oxford University
+Cambridge University
+University of Oxford
+University of Cambridge
+MIT
+Imperial College
+Pakistan Tehreek-e-Insaf
+PTI
+PML-N
+PPP
+ISPR
+Pakistan Army
+Pakistan Air Force
+Pakistan Navy
+State Bank of Pakistan
+Federal Board of Revenue
+FBR
+NADRA
+PIA
+Pakistan International Airlines
+Pakistan Cricket Board
+PCB
+Higher Education Commission
+HEC
+NUST
+LUMS
+COMSATS
+Pakistan Meteorological Department
+National Assembly
+Election Commission of Pakistan
+Taliban
+Hamas
+Hezbollah
+Red Cross
+Red Crescent
+Amnesty International
+Human Rights Watch
+Greenpeace
+Real Madrid
+Barcelona FC
+Manchester United
+Manchester City
+Liverpool FC
+Chelsea
+Arsenal
+Bayern Munich
+Juventus
+Lahore Qalandars
+Karachi Kings
+Islamabad United
+Peshawar Zalmi
+Quetta Gladiators
+Multan Sultans

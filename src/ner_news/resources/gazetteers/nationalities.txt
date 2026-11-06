@@ -1,0 +1,109 @@
+# Nationalities, religions, languages and political groups -> MISC
+Afghan
+African
+American
+Arab
+Argentine
+Asian
+Australian
+Austrian
+Bangladeshi
+Belgian
+Brazilian
+British
+Bulgarian
+Canadian
+Chilean
+Chinese
+Colombian
+Czech
+Danish
+Dutch
+Egyptian
+English
+European
+Filipino
+Finnish
+French
+German
+Greek
+Hungarian
+Indian
+Indonesian
+Iranian
+Iraqi
+Irish
+Israeli
+Italian
+Japanese
+Jordanian
+Kenyan
+Korean
+Kurdish
+Lebanese
+Malaysian
+Mexican
+Moroccan
+Nepali
+Nigerian
+Norwegian
+Pakistani
+Palestinian
+Persian
+Polish
+Portuguese
+Romanian
+Russian
+Saudi
+Scottish
+Serbian
+Singaporean
+Spanish
+Sri Lankan
+Swedish
+Swiss
+Syrian
+Thai
+Turkish
+Ukrainian
+Welsh
+Vietnamese
+Yemeni
+Muslim
+Muslims
+Christian
+Christians
+Hindu
+Hindus
+Sikh
+Sikhs
+Jewish
+Buddhist
+Islamic
+Catholic
+Urdu
+Pashto
+Punjabi
+Sindhi
+Balochi
+Hindi
+Arabic
+Mandarin
+Republican
+Democrat
+Democratic
+Pashtun
+World Cup
+Olympics
+Olympic Games
+Premier League
+Champions League
+Copa America
+Asia Cup
+Super Bowl
+Wimbledon
+Grand Slam
+Pakistan Super League
+PSL
+IPL
+Ashes
